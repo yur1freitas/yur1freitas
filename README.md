@@ -80,6 +80,20 @@
   </picture>
 </a>
 &nbsp
+<a target="_blank" href="https://github.com/yur1freitas/blog">
+   <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=catppuccin_mocha"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog" />
+  </picture>
+</a>
+
 <a target="_blank" href="https://github.com/yur1freitas/pomodoro">
    <picture>
     <source
