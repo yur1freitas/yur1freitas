@@ -39,22 +39,22 @@
    <br/>
 <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=catppuccin_mocha&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=catppuccin_latte&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&locale=pt-br" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=catppuccin_mocha&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=catppuccin_latte&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&locale=pt-br" />
@@ -69,11 +69,11 @@
 <a target="_blank" href="https://github.com/yur1freitas/jogo-da-velha">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha&theme=catppuccin_mocha"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha&theme=catppuccin_latte"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha" />
@@ -83,11 +83,11 @@
 <a target="_blank" href="https://github.com/yur1freitas/blog">
    <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=catppuccin_mocha"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=catppuccin_latte"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog" />
@@ -97,11 +97,11 @@
 <a target="_blank" href="https://github.com/yur1freitas/pomodoro">
    <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro&theme=catppuccin_mocha"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro&theme=catppuccin_latte"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro" />
