@@ -66,17 +66,17 @@
 
 ### 💡 Projetos
 
-<a target="_blank" href="https://github.com/yur1freitas/jogo-da-velha">
+<a target="_blank" href="https://github.com/yur1freitas/tic-tac-toe">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha&theme=github_dark_dimmed"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=tic-tac-toe&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=tic-tac-toe&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=jogo-da-velha" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=tic-tac-toe" />
   </picture>
 </a>
 &nbsp
