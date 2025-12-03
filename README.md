@@ -38,26 +38,26 @@
   <summary><b>📊 &nbsp;Stats</b></summary>
    <br/>
 <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
+    <source 
+      srcset="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
+      srcset="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=yur1freitas&layout=compact&locale=pt-br" />
+    <img src="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&locale=pt-br" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
+      srcset="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
+      srcset="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&locale=pt-br" />
+    <img src="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&locale=pt-br" />
   </picture>
    <br/>
 </details>
@@ -69,42 +69,42 @@
 <a target="_blank" href="https://github.com/yur1freitas/tic-tac-toe">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=tic-tac-toe&theme=github_dark_dimmed"
+      srcset="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=tic-tac-toe&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=tic-tac-toe&theme=default"
+      srcset="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=tic-tac-toe&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=tic-tac-toe" />
+    <img src="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=tic-tac-toe" />
   </picture>
 </a>
 &nbsp
 <a target="_blank" href="https://github.com/yur1freitas/blog">
    <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=github_dark_dimmed"
+      srcset="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=blog&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog&theme=default"
+      srcset="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=blog&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=blog" />
+    <img src="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=blog" />
   </picture>
 </a>
 
-<a target="_blank" href="https://github.com/yur1freitas/pomodoro">
+<a target="_blank" href="https://github.com/yur1freitas/mental-disorders-classification">
    <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro&theme=github_dark_dimmed"
+      srcset="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=mental-disorders-classification&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro&theme=default"
+      srcset="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=mental-disorders-classification&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yur1freitas&repo=pomodoro" />
+    <img src="https://yur1-github-stats.vercel.app/api/pin?username=yur1freitas&repo=mental-disorders-classification" />
   </picture>
 </a>
 <br/>
