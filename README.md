@@ -7,7 +7,7 @@
 </p>
 </p>
 
-<hr/>
+<br/>
 
 <details>
   <summary><b>💻 &nbsp;Conhecimento Técnico</b></summary>
