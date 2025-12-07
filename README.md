@@ -39,27 +39,29 @@
    <br/>
 <picture>
     <source 
-      srcset="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
+      srcset="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=github_dark&locale=pt-br&hide_border=true"
       media="(prefers-color-scheme: dark)"
+      width="50%"
     />
     <source 
-      srcset="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
+      srcset="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&theme=default&locale=pt-br&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&locale=pt-br" />
+    <img src="https://yur1-github-stats.vercel.app/api?username=yur1freitas&layout=compact&locale=pt-br&hide_border=true" />
   </picture>
   <picture>
     <source
-      srcset="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=github_dark_dimmed&locale=pt-br"
+      srcset="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=github_dark&locale=pt-br&hide_border=true"
       media="(prefers-color-scheme: dark)"
+      width="40%"
     />
     <source 
-      srcset="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=default&locale=pt-br"
+      srcset="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&theme=default&locale=pt-br&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&locale=pt-br" />
+    <img src="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&locale=pt-br&hide_border=true" />
   </picture>
    <br/>
 </details>
 
-<hr/>
+ 
