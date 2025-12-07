@@ -3,8 +3,9 @@
 `📌 Estudante de Engenharia de Software | Programador TypeScript Full‑Stack no tempo livre`
 
 <p>
-  Olá! Me chamo Yuri, sou estudante de Engenharia de Software e um entusiasta por tecnologia. Enquanto curso, dedico meu tempo livre a projetos pessoais feitos em TypeScript que abrangem      tanto o front‑end quanto o back‑end, sempre buscando aprender e explorar coisas novas nesse mundo. 
+  Olá, me chamo Yuri! Sou um estudante universitário e um entusiasta de tecnologia que adora passar o tempo livre programando e desenvolvendo projetos de código aberto :)
 </p>
+
 </p>
 
 <br/>
