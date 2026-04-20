@@ -14,29 +14,13 @@
   <summary><b>💻 &nbsp;Conhecimento Técnico</b></summary>
    <br/>
 
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-   <img width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
-   <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-
-   <img width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   
-   <br/>
+   ![React, TailwindCSS, TypeScript, Node.js, Fastify, Astro.js, Python, Bash, Git, Linux, Docker, Vscode, Zed](https://i.icoziv.workers.dev/icons?i=react-dark,tailwindcss-dark,typescript,nodejs-dark,fastify-dark,astro-dark,python-dark,bash-dark,git-dark,linux-dark,docker,visualstudiocode-dark,zed)
 </details>
 
 <details>
   <summary><b>🧠 &nbsp;Aprendendo...</b></summary>
    <br/>
-
-   <br/>
+  
 </details>
 
 <details>
@@ -67,6 +51,4 @@
     />
     <img src="https://yur1-github-stats.vercel.app/api/top-langs/?username=yur1freitas&layout=compact&locale=pt-br&hide_border=true" />
   </picture>
-
-   <br/>
 </details>
