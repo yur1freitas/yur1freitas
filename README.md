@@ -1,12 +1,8 @@
-## 👋 Olá! Seja bem-vindo
+## 👋 Opa! Seja bem-vindo
 
 `📌 Estudante de Engenharia de Software | Programador TypeScript Full‑Stack no tempo livre`
 
-<p>
-  Olá, me chamo Yuri! Sou um estudante universitário e um entusiasta de tecnologia que adora passar o tempo livre programando e desenvolvendo projetos de código aberto :)
-</p>
-
-</p>
+Olá, me chamo Yuri! Sou um estudante que adora matemática e tecnologia. Invisto a maior parte do meu tempo livre [estudando](https://yur1-notes.netlify.app) ou desenvolvendo projetos de código aberto
 
 <br/>
 
